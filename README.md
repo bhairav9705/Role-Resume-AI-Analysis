@@ -1,6 +1,6 @@
-# AI Resume Analysis
+# AI Resume-JD Analysis
 
-A full-stack application that analyzes resumes against job descriptions using AI (Groq LLaMA), providing match scores, skill gap analysis, and career roadmaps.
+A full-stack application that analyzes resumes against job descriptions using AI (Groq LLaMA), providing match scores, skill gap analysis, and career suggessions.
 
 ## Stack
 
